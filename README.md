@@ -29,4 +29,4 @@ Es imposible en 20 minutos explicarlo todo, así que seré fundamentalmente prá
 
 El tutorial para crear el package puede verse [aquí](./tutorial_creacion_R_package.md)  o [aquí](https://perezp44.github.io/pkg4albacete/)
 
-Finalmente el repo del que se habla en este tutorial se alojó en Github en <https://perezp44.github.io/pkg4albacete/>
+Finalmente el repo del que se habla en este tutorial se alojó en Github en <https://github.com/perezp44/pkg4albacete>
