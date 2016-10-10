@@ -1,6 +1,6 @@
 ---
-title: "Creando un R package (à la Pérez)"  
-author: "Pedro J. Pérez"  
+title: "Tutorial creación R packages"  
+author: "Pedro J. Pérez & Francisco G. Morillas"  
 date: "`r Sys.Date()`"  
 output:
  

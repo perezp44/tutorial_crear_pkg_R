@@ -1,7 +1,7 @@
-Creando un R package (à la Pérez)
+Tutorial creación R packages
 ================
-Pedro J. Pérez
-2016-10-08
+Pedro J. Pérez & Francisco G. Morillas
+2016-10-10
 
 -   [Objetivo](#objetivo)
 -   [Preparación del ordenador](#preparacion-del-ordenador)
