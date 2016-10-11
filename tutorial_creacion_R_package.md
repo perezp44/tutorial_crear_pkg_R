@@ -1,7 +1,7 @@
 Tutorial creación R packages
 ================
 Pedro J. Pérez & Francisco G. Morillas
-2016-10-10
+2016-10-11
 
 -   [Objetivo](#objetivo)
 -   [Preparación del ordenador](#preparacion-del-ordenador)
@@ -81,7 +81,7 @@ Visión general de un package
 
 Podemos pensar que es un package es un conjunto de archivos dentro de una carpeta. Veamos la estructura típica de esa carpeta:
 
-![](./imagenes/Estructura_final_pkg4albacete.png)
+![](/imagenes/Estructura_final_pkg4albacete.png)
 
 Tiene bastantes cosas, pero las que nos van a interesar principalmente son 3:
 
