@@ -81,7 +81,7 @@ Visión general de un package
 
 Podemos pensar que es un package es un conjunto de archivos dentro de una carpeta. Veamos la estructura típica de esa carpeta:
 
-![](./imagenes/Estructura_final_pkg4albacete.png?raw=true)
+![](/imagenes/Estructura_final_pkg4albacete.png)
 
 Tiene bastantes cosas, pero las que nos van a interesar principalmente son 3:
 
